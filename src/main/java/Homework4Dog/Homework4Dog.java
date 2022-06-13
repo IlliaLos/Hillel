@@ -10,6 +10,7 @@ public class Homework4Dog {
         System.out.println(second.getColor());
         System.out.println(second.getHeight());
 
+
 /*        first.printInfoDogs();
         System.out.println();
         second.printInfoDogs();
