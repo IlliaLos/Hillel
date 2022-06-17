@@ -67,7 +67,7 @@ public class Dog {
         System.out.println("HEIGHT " + height);
     }*/
 
-    public void printInfo() {
+    public Dog() {
         System.out.println("Creating object of the class Dog.");
     }
 }
